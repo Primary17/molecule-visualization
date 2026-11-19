@@ -1,0 +1,17 @@
+{
+  "format": "molecule-structure",
+  "version": "1.0",
+  "coordinateUnit": "angstrom",
+  "molecule": {
+    "id": "broken-order",
+    "name": "Неприпустимий порядок",
+    "formula": "\\ce{N2}",
+    "atoms": [
+      { "id": "N1", "element": "N", "position": { "x": 0, "y": 0, "z": 0 } },
+      { "id": "N2", "element": "N", "position": { "x": 1.1, "y": 0, "z": 0 } }
+    ],
+    "bonds": [
+      { "id": "b1", "from": "N1", "to": "N2", "order": 4 }
+    ]
+  }
+}

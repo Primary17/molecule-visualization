@@ -1,0 +1,18 @@
+{
+  "format": "molecule-structure",
+  "version": "1.0",
+  "coordinateUnit": "angstrom",
+  "molecule": {
+    "id": "broken-bond",
+    "name": "Зламане посилання",
+    "formula": "\\ce{H2O}",
+    "atoms": [
+      { "id": "O1", "element": "O", "position": { "x": 0, "y": 0, "z": 0 } },
+      { "id": "H1", "element": "H", "position": { "x": 0.96, "y": 0, "z": 0 } }
+    ],
+    "bonds": [
+      { "id": "b1", "from": "O1", "to": "H1", "order": 1 },
+      { "id": "b2", "from": "O1", "to": "H9", "order": 1 }
+    ]
+  }
+}

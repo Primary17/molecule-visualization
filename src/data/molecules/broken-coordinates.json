@@ -1,0 +1,17 @@
+{
+  "format": "molecule-structure",
+  "version": "1.0",
+  "coordinateUnit": "angstrom",
+  "molecule": {
+    "id": "broken-coordinates",
+    "name": "Зламані координати",
+    "formula": "\\ce{H2}",
+    "atoms": [
+      { "id": "H1", "element": "H", "position": { "x": 0, "y": 0, "z": 0 } },
+      { "id": "H2", "element": "H", "position": { "x": 0.74, "y": "0", "z": 0 } }
+    ],
+    "bonds": [
+      { "id": "b1", "from": "H1", "to": "H2", "order": 1 }
+    ]
+  }
+}

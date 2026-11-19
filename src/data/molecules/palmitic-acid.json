@@ -1,0 +1,759 @@
+{
+  "format": "molecule-structure",
+  "version": "1.0",
+  "coordinateUnit": "angstrom",
+  "molecule": {
+    "id": "palmitic-acid",
+    "name": "Пальмітинова кислота",
+    "formula": "\\ce{C16H32O2}",
+    "description": "Насичена жирна кислота з лінійним ланцюгом із 16 атомів Карбону та карбоксильною групою на кінці.",
+    "atoms": [
+      {
+        "id": "C1",
+        "element": "C",
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      {
+        "id": "C2",
+        "element": "C",
+        "position": {
+          "x": 1.27,
+          "y": 0.45,
+          "z": 0.0
+        }
+      },
+      {
+        "id": "C3",
+        "element": "C",
+        "position": {
+          "x": 2.54,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      {
+        "id": "C4",
+        "element": "C",
+        "position": {
+          "x": 3.81,
+          "y": 0.45,
+          "z": 0.0
+        }
+      },
+      {
+        "id": "C5",
+        "element": "C",
+        "position": {
+          "x": 5.08,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      {
+        "id": "C6",
+        "element": "C",
+        "position": {
+          "x": 6.35,
+          "y": 0.45,
+          "z": 0.0
+        }
+      },
+      {
+        "id": "C7",
+        "element": "C",
+        "position": {
+          "x": 7.62,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      {
+        "id": "C8",
+        "element": "C",
+        "position": {
+          "x": 8.89,
+          "y": 0.45,
+          "z": 0.0
+        }
+      },
+      {
+        "id": "C9",
+        "element": "C",
+        "position": {
+          "x": 10.16,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      {
+        "id": "C10",
+        "element": "C",
+        "position": {
+          "x": 11.43,
+          "y": 0.45,
+          "z": 0.0
+        }
+      },
+      {
+        "id": "C11",
+        "element": "C",
+        "position": {
+          "x": 12.7,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      {
+        "id": "C12",
+        "element": "C",
+        "position": {
+          "x": 13.97,
+          "y": 0.45,
+          "z": 0.0
+        }
+      },
+      {
+        "id": "C13",
+        "element": "C",
+        "position": {
+          "x": 15.24,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      {
+        "id": "C14",
+        "element": "C",
+        "position": {
+          "x": 16.51,
+          "y": 0.45,
+          "z": 0.0
+        }
+      },
+      {
+        "id": "C15",
+        "element": "C",
+        "position": {
+          "x": 17.78,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      {
+        "id": "C16",
+        "element": "C",
+        "position": {
+          "x": 19.05,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      {
+        "id": "O1",
+        "element": "O",
+        "position": {
+          "x": 19.67,
+          "y": 1.08,
+          "z": 0.0
+        }
+      },
+      {
+        "id": "O2",
+        "element": "O",
+        "position": {
+          "x": 20.35,
+          "y": -0.7,
+          "z": 0.0
+        }
+      },
+      {
+        "id": "H1",
+        "element": "H",
+        "position": {
+          "x": -0.35,
+          "y": 0.0,
+          "z": 1.0
+        }
+      },
+      {
+        "id": "H2",
+        "element": "H",
+        "position": {
+          "x": -0.35,
+          "y": 0.87,
+          "z": -0.5
+        }
+      },
+      {
+        "id": "H3",
+        "element": "H",
+        "position": {
+          "x": -0.35,
+          "y": -0.87,
+          "z": -0.5
+        }
+      },
+      {
+        "id": "H4",
+        "element": "H",
+        "position": {
+          "x": 1.27,
+          "y": -0.5,
+          "z": 0.55
+        }
+      },
+      {
+        "id": "H5",
+        "element": "H",
+        "position": {
+          "x": 1.27,
+          "y": 1.4,
+          "z": 0.55
+        }
+      },
+      {
+        "id": "H6",
+        "element": "H",
+        "position": {
+          "x": 2.54,
+          "y": 0.95,
+          "z": 0.55
+        }
+      },
+      {
+        "id": "H7",
+        "element": "H",
+        "position": {
+          "x": 2.54,
+          "y": -0.95,
+          "z": 0.55
+        }
+      },
+      {
+        "id": "H8",
+        "element": "H",
+        "position": {
+          "x": 3.81,
+          "y": -0.5,
+          "z": 0.55
+        }
+      },
+      {
+        "id": "H9",
+        "element": "H",
+        "position": {
+          "x": 3.81,
+          "y": 1.4,
+          "z": 0.55
+        }
+      },
+      {
+        "id": "H10",
+        "element": "H",
+        "position": {
+          "x": 5.08,
+          "y": 0.95,
+          "z": 0.55
+        }
+      },
+      {
+        "id": "H11",
+        "element": "H",
+        "position": {
+          "x": 5.08,
+          "y": -0.95,
+          "z": 0.55
+        }
+      },
+      {
+        "id": "H12",
+        "element": "H",
+        "position": {
+          "x": 6.35,
+          "y": -0.5,
+          "z": 0.55
+        }
+      },
+      {
+        "id": "H13",
+        "element": "H",
+        "position": {
+          "x": 6.35,
+          "y": 1.4,
+          "z": 0.55
+        }
+      },
+      {
+        "id": "H14",
+        "element": "H",
+        "position": {
+          "x": 7.62,
+          "y": 0.95,
+          "z": 0.55
+        }
+      },
+      {
+        "id": "H15",
+        "element": "H",
+        "position": {
+          "x": 7.62,
+          "y": -0.95,
+          "z": 0.55
+        }
+      },
+      {
+        "id": "H16",
+        "element": "H",
+        "position": {
+          "x": 8.89,
+          "y": -0.5,
+          "z": 0.55
+        }
+      },
+      {
+        "id": "H17",
+        "element": "H",
+        "position": {
+          "x": 8.89,
+          "y": 1.4,
+          "z": 0.55
+        }
+      },
+      {
+        "id": "H18",
+        "element": "H",
+        "position": {
+          "x": 10.16,
+          "y": 0.95,
+          "z": 0.55
+        }
+      },
+      {
+        "id": "H19",
+        "element": "H",
+        "position": {
+          "x": 10.16,
+          "y": -0.95,
+          "z": 0.55
+        }
+      },
+      {
+        "id": "H20",
+        "element": "H",
+        "position": {
+          "x": 11.43,
+          "y": -0.5,
+          "z": 0.55
+        }
+      },
+      {
+        "id": "H21",
+        "element": "H",
+        "position": {
+          "x": 11.43,
+          "y": 1.4,
+          "z": 0.55
+        }
+      },
+      {
+        "id": "H22",
+        "element": "H",
+        "position": {
+          "x": 12.7,
+          "y": 0.95,
+          "z": 0.55
+        }
+      },
+      {
+        "id": "H23",
+        "element": "H",
+        "position": {
+          "x": 12.7,
+          "y": -0.95,
+          "z": 0.55
+        }
+      },
+      {
+        "id": "H24",
+        "element": "H",
+        "position": {
+          "x": 13.97,
+          "y": -0.5,
+          "z": 0.55
+        }
+      },
+      {
+        "id": "H25",
+        "element": "H",
+        "position": {
+          "x": 13.97,
+          "y": 1.4,
+          "z": 0.55
+        }
+      },
+      {
+        "id": "H26",
+        "element": "H",
+        "position": {
+          "x": 15.24,
+          "y": 0.95,
+          "z": 0.55
+        }
+      },
+      {
+        "id": "H27",
+        "element": "H",
+        "position": {
+          "x": 15.24,
+          "y": -0.95,
+          "z": 0.55
+        }
+      },
+      {
+        "id": "H28",
+        "element": "H",
+        "position": {
+          "x": 16.51,
+          "y": -0.5,
+          "z": 0.55
+        }
+      },
+      {
+        "id": "H29",
+        "element": "H",
+        "position": {
+          "x": 16.51,
+          "y": 1.4,
+          "z": 0.55
+        }
+      },
+      {
+        "id": "H30",
+        "element": "H",
+        "position": {
+          "x": 17.78,
+          "y": 0.95,
+          "z": 0.55
+        }
+      },
+      {
+        "id": "H31",
+        "element": "H",
+        "position": {
+          "x": 17.78,
+          "y": -0.95,
+          "z": 0.55
+        }
+      },
+      {
+        "id": "H32",
+        "element": "H",
+        "position": {
+          "x": 21.07,
+          "y": -1.12,
+          "z": 0.0
+        }
+      }
+    ],
+    "bonds": [
+      {
+        "id": "cc1",
+        "from": "C1",
+        "to": "C2",
+        "order": 1
+      },
+      {
+        "id": "cc2",
+        "from": "C2",
+        "to": "C3",
+        "order": 1
+      },
+      {
+        "id": "cc3",
+        "from": "C3",
+        "to": "C4",
+        "order": 1
+      },
+      {
+        "id": "cc4",
+        "from": "C4",
+        "to": "C5",
+        "order": 1
+      },
+      {
+        "id": "cc5",
+        "from": "C5",
+        "to": "C6",
+        "order": 1
+      },
+      {
+        "id": "cc6",
+        "from": "C6",
+        "to": "C7",
+        "order": 1
+      },
+      {
+        "id": "cc7",
+        "from": "C7",
+        "to": "C8",
+        "order": 1
+      },
+      {
+        "id": "cc8",
+        "from": "C8",
+        "to": "C9",
+        "order": 1
+      },
+      {
+        "id": "cc9",
+        "from": "C9",
+        "to": "C10",
+        "order": 1
+      },
+      {
+        "id": "cc10",
+        "from": "C10",
+        "to": "C11",
+        "order": 1
+      },
+      {
+        "id": "cc11",
+        "from": "C11",
+        "to": "C12",
+        "order": 1
+      },
+      {
+        "id": "cc12",
+        "from": "C12",
+        "to": "C13",
+        "order": 1
+      },
+      {
+        "id": "cc13",
+        "from": "C13",
+        "to": "C14",
+        "order": 1
+      },
+      {
+        "id": "cc14",
+        "from": "C14",
+        "to": "C15",
+        "order": 1
+      },
+      {
+        "id": "cc15",
+        "from": "C15",
+        "to": "C16",
+        "order": 1
+      },
+      {
+        "id": "co1",
+        "from": "C16",
+        "to": "O1",
+        "order": 2
+      },
+      {
+        "id": "co2",
+        "from": "C16",
+        "to": "O2",
+        "order": 1
+      },
+      {
+        "id": "ch1",
+        "from": "C1",
+        "to": "H1",
+        "order": 1
+      },
+      {
+        "id": "ch2",
+        "from": "C1",
+        "to": "H2",
+        "order": 1
+      },
+      {
+        "id": "ch3",
+        "from": "C1",
+        "to": "H3",
+        "order": 1
+      },
+      {
+        "id": "ch4",
+        "from": "C2",
+        "to": "H4",
+        "order": 1
+      },
+      {
+        "id": "ch5",
+        "from": "C2",
+        "to": "H5",
+        "order": 1
+      },
+      {
+        "id": "ch6",
+        "from": "C3",
+        "to": "H6",
+        "order": 1
+      },
+      {
+        "id": "ch7",
+        "from": "C3",
+        "to": "H7",
+        "order": 1
+      },
+      {
+        "id": "ch8",
+        "from": "C4",
+        "to": "H8",
+        "order": 1
+      },
+      {
+        "id": "ch9",
+        "from": "C4",
+        "to": "H9",
+        "order": 1
+      },
+      {
+        "id": "ch10",
+        "from": "C5",
+        "to": "H10",
+        "order": 1
+      },
+      {
+        "id": "ch11",
+        "from": "C5",
+        "to": "H11",
+        "order": 1
+      },
+      {
+        "id": "ch12",
+        "from": "C6",
+        "to": "H12",
+        "order": 1
+      },
+      {
+        "id": "ch13",
+        "from": "C6",
+        "to": "H13",
+        "order": 1
+      },
+      {
+        "id": "ch14",
+        "from": "C7",
+        "to": "H14",
+        "order": 1
+      },
+      {
+        "id": "ch15",
+        "from": "C7",
+        "to": "H15",
+        "order": 1
+      },
+      {
+        "id": "ch16",
+        "from": "C8",
+        "to": "H16",
+        "order": 1
+      },
+      {
+        "id": "ch17",
+        "from": "C8",
+        "to": "H17",
+        "order": 1
+      },
+      {
+        "id": "ch18",
+        "from": "C9",
+        "to": "H18",
+        "order": 1
+      },
+      {
+        "id": "ch19",
+        "from": "C9",
+        "to": "H19",
+        "order": 1
+      },
+      {
+        "id": "ch20",
+        "from": "C10",
+        "to": "H20",
+        "order": 1
+      },
+      {
+        "id": "ch21",
+        "from": "C10",
+        "to": "H21",
+        "order": 1
+      },
+      {
+        "id": "ch22",
+        "from": "C11",
+        "to": "H22",
+        "order": 1
+      },
+      {
+        "id": "ch23",
+        "from": "C11",
+        "to": "H23",
+        "order": 1
+      },
+      {
+        "id": "ch24",
+        "from": "C12",
+        "to": "H24",
+        "order": 1
+      },
+      {
+        "id": "ch25",
+        "from": "C12",
+        "to": "H25",
+        "order": 1
+      },
+      {
+        "id": "ch26",
+        "from": "C13",
+        "to": "H26",
+        "order": 1
+      },
+      {
+        "id": "ch27",
+        "from": "C13",
+        "to": "H27",
+        "order": 1
+      },
+      {
+        "id": "ch28",
+        "from": "C14",
+        "to": "H28",
+        "order": 1
+      },
+      {
+        "id": "ch29",
+        "from": "C14",
+        "to": "H29",
+        "order": 1
+      },
+      {
+        "id": "ch30",
+        "from": "C15",
+        "to": "H30",
+        "order": 1
+      },
+      {
+        "id": "ch31",
+        "from": "C15",
+        "to": "H31",
+        "order": 1
+      },
+      {
+        "id": "oh1",
+        "from": "O2",
+        "to": "H32",
+        "order": 1
+      }
+    ]
+  }
+}

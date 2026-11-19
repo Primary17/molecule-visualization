@@ -1,0 +1,39 @@
+{
+  "format": "molecule-structure",
+  "version": "1.0",
+  "coordinateUnit": "angstrom",
+  "molecule": {
+    "id": "benzene",
+    "name": "Бензен",
+    "formula": "\\ce{C6H6}",
+    "description": "Шестикутне кільце. Кратні зв’язки показано почергово, як у формулі Кекуле.",
+    "atoms": [
+      { "id": "C1", "element": "C", "position": { "x": 1.397, "y": 0, "z": 0 } },
+      { "id": "C2", "element": "C", "position": { "x": 0.6985, "y": 1.2098, "z": 0 } },
+      { "id": "C3", "element": "C", "position": { "x": -0.6985, "y": 1.2098, "z": 0 } },
+      { "id": "C4", "element": "C", "position": { "x": -1.397, "y": 0, "z": 0 } },
+      { "id": "C5", "element": "C", "position": { "x": -0.6985, "y": -1.2098, "z": 0 } },
+      { "id": "C6", "element": "C", "position": { "x": 0.6985, "y": -1.2098, "z": 0 } },
+      { "id": "H1", "element": "H", "position": { "x": 2.481, "y": 0, "z": 0 } },
+      { "id": "H2", "element": "H", "position": { "x": 1.2405, "y": 2.1486, "z": 0 } },
+      { "id": "H3", "element": "H", "position": { "x": -1.2405, "y": 2.1486, "z": 0 } },
+      { "id": "H4", "element": "H", "position": { "x": -2.481, "y": 0, "z": 0 } },
+      { "id": "H5", "element": "H", "position": { "x": -1.2405, "y": -2.1486, "z": 0 } },
+      { "id": "H6", "element": "H", "position": { "x": 1.2405, "y": -2.1486, "z": 0 } }
+    ],
+    "bonds": [
+      { "id": "c1", "from": "C1", "to": "C2", "order": 2 },
+      { "id": "c2", "from": "C2", "to": "C3", "order": 1 },
+      { "id": "c3", "from": "C3", "to": "C4", "order": 2 },
+      { "id": "c4", "from": "C4", "to": "C5", "order": 1 },
+      { "id": "c5", "from": "C5", "to": "C6", "order": 2 },
+      { "id": "c6", "from": "C6", "to": "C1", "order": 1 },
+      { "id": "h1", "from": "C1", "to": "H1", "order": 1 },
+      { "id": "h2", "from": "C2", "to": "H2", "order": 1 },
+      { "id": "h3", "from": "C3", "to": "H3", "order": 1 },
+      { "id": "h4", "from": "C4", "to": "H4", "order": 1 },
+      { "id": "h5", "from": "C5", "to": "H5", "order": 1 },
+      { "id": "h6", "from": "C6", "to": "H6", "order": 1 }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "format": "molecule-structure",
+  "version": "1.0",
+  "coordinateUnit": "angstrom",
+  "molecule": {
+    "id": "ethene",
+    "name": "Етен",
+    "formula": "\\ce{C2H4}",
+    "description": "Плоска молекула з подвійним зв’язком між атомами карбону.",
+    "atoms": [
+      { "id": "C1", "element": "C", "position": { "x": 0.6695, "y": 0, "z": 0 } },
+      { "id": "C2", "element": "C", "position": { "x": -0.6695, "y": 0, "z": 0 } },
+      { "id": "H1", "element": "H", "position": { "x": 1.2321, "y": 0.9289, "z": 0 } },
+      { "id": "H2", "element": "H", "position": { "x": 1.2321, "y": -0.9289, "z": 0 } },
+      { "id": "H3", "element": "H", "position": { "x": -1.2321, "y": 0.9289, "z": 0 } },
+      { "id": "H4", "element": "H", "position": { "x": -1.2321, "y": -0.9289, "z": 0 } }
+    ],
+    "bonds": [
+      { "id": "b1", "from": "C1", "to": "C2", "order": 2 },
+      { "id": "b2", "from": "C1", "to": "H1", "order": 1 },
+      { "id": "b3", "from": "C1", "to": "H2", "order": 1 },
+      { "id": "b4", "from": "C2", "to": "H3", "order": 1 },
+      { "id": "b5", "from": "C2", "to": "H4", "order": 1 }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "format": "molecule-structure",
+  "version": "1.0",
+  "coordinateUnit": "angstrom",
+  "molecule": {
+    "id": "water",
+    "name": "Вода",
+    "formula": "\\ce{H2O}",
+    "description": "Зігнута молекула з двома одинарними зв’язками.",
+    "atoms": [
+      { "id": "O1", "element": "O", "position": { "x": 0, "y": 0, "z": 0.117 } },
+      { "id": "H1", "element": "H", "position": { "x": 0.757, "y": 0, "z": -0.469 } },
+      { "id": "H2", "element": "H", "position": { "x": -0.757, "y": 0, "z": -0.469 } }
+    ],
+    "bonds": [
+      { "id": "b1", "from": "O1", "to": "H1", "order": 1 },
+      { "id": "b2", "from": "O1", "to": "H2", "order": 1 }
+    ]
+  }
+}
